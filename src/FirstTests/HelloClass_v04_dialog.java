@@ -18,7 +18,7 @@ public class HelloClass_v04_dialog {
 	{
 		String inputString = JOptionPane.showInputDialog(null,"What is your name?");
 		
-		System.out.println("My name is " + inputString);
+		System.out.println("Hello, " + inputString + "!");
 	}
 	
 	
