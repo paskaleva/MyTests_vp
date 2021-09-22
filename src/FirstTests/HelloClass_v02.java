@@ -14,6 +14,6 @@ public class HelloClass_v02 {
 		System.out.print("Enter your name: ");
 			
 		String name = reader.readLine();
-		System.out.println("Hello,  " + name + "! :)");
+		System.out.println("Hello, " + name + "! :)");
 	}
 }
